@@ -24,11 +24,11 @@ Block Quotes:
 
 Some inline `<code>` here.
 
-# Project Name: \${question.title}
+# Project Name: \${datatitle}
 
 ## Description
 
-\${question.description}
+\${datadescription}
 
 ## Table of Contents
 
@@ -44,28 +44,28 @@ Some inline `<code>` here.
 
 ## Installation
 
-\${questions.installation}
+\${data.installation}
 
 ## Usage
 
-\${questions.usage}
+\${data.usage}
 
 ## License
 
-Licensed under: \${questions.license}
+Licensed under: \${data.license}
 
 ## Contributing
 
-\${questions.contribution}
+\${data.contribution}
 
 ## Tests
 
-\${questions.test}
+\${data.test}
 
 ## Questions
 
 http://github.com.${quesions.username}
 
-\${questions.test}
+\${data.test}
 
-\${questions.email}
+\${data.email}
