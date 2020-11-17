@@ -70,10 +70,12 @@ const questions = () =>
         "MIT",
         "Apache-2.0",
         "CCBYSA4",
-        "GPL-3.0",
+        "GPLv2",
+        "GPLv3",
         "BSD-2-Clause",
         "BSD-3-Clause",
         "BSD-4-Clause",
+        "LGPLv3",
       ],
     },
     {
