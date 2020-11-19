@@ -19,7 +19,9 @@ ${data.description}
 
 4. [Contributing](#contributing)
 
-5. [Tests](#tests)
+5. [Testing](#testing)
+
+6. [Questions](#questions)
 
 ## Installation
 
@@ -37,13 +39,16 @@ Licensed under: ${data.license} license
 
 ${data.contribution}
 
-## Tests
+## Testing
 
 ${data.test}
 
 ## Questions
 
+GitHub Repository:
+
 http://github.com/${data.username}
+
 For any questions, please contact me at ${data.email}`;
 }
 

@@ -1,12 +1,11 @@
-# Sam
+# AwesomeProject
 
-![license badge](https://img.shields.io/badge/license-MIT-blue)
-
-# Project Name: Sam
+# Project Name: AwesomeProject
+![license badge](https://img.shields.io/badge/license-GPLv3-blue)
 
 ## Description
 
-Sam
+command line node.js application
 
 ## Table of Contents
 
@@ -18,7 +17,9 @@ Sam
 
 4. [Contributing](#contributing)
 
-5. [Tests](#tests)
+5. [Testing](#testing)
+
+6. [Questions](#questions)
 
 ## Installation
 
@@ -26,22 +27,24 @@ undefined
 
 ## Usage
 
-Sam
+Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rem explicabo minus blanditiis non asperiores. Impedit deserunt consequatur enim, commodi assumenda blanditiis voluptatum! Adipisci doloribus quas labore minima provident voluptates, repudiandae dicta. Modi iste adipisci alias voluptatum officiis animi fugit eum saepe laudantium assumenda qui, facilis tempore voluptate dolorem quia explicabo vero rem incidunt corporis accusamus magnam tenetur expedita fugiat asperiores. Ex eum molestias, enim fugit ullam ad explicabo qui est id aliquam deserunt ea quos aliquid? Itaque error eaque molestiae dicta est adipisci placeat veritatis architecto cupiditate iusto accusantium laborum, odit non at dolore odio maxime, nesciunt provident dignissimos rem!
 
 ## License
 
-Licensed under: MIT
+Licensed under: GPLv3 license
 
 ## Contributing
 
-Sam
+Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rem explicabo minus blanditiis non asperiores. Impedit deserunt consequatur enim, commodi assumenda blanditiis voluptatum! Adipisci doloribus quas labore minima provident voluptates, repudiandae dicta. Modi iste adipisci alias voluptatum officiis animi fugit eum saepe laudantium assumenda qui, facilis tempore voluptate dolorem quia explicabo vero rem incidunt corporis accusamus magnam tenetur expedita fugiat asperiores. Ex eum molestias, enim fugit ullam ad explicabo qui est id aliquam deserunt ea quos aliquid? Itaque error eaque molestiae dicta est adipisci placeat veritatis architecto cupiditate iusto accusantium laborum, odit non at dolore odio maxime, nesciunt provident dignissimos rem!
 
-## Tests
+## Testing
 
-Sam
+Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rem explicabo minus blanditiis non asperiores. Impedit deserunt consequatur enim, commodi assumenda blanditiis voluptatum! Adipisci doloribus quas labore minima provident voluptates, repudiandae dicta. Modi iste adipisci alias voluptatum officiis animi fugit eum saepe laudantium assumenda qui, facilis tempore voluptate dolorem quia explicabo vero rem incidunt corporis accusamus magnam tenetur expedita fugiat asperiores. Ex eum molestias, enim fugit ullam ad explicabo qui est id aliquam deserunt ea quos aliquid? Itaque error eaque molestiae dicta est adipisci placeat veritatis architecto cupiditate iusto accusantium laborum, odit non at dolore odio maxime, nesciunt provident dignissimos rem!
 
 ## Questions
 
-http://github.com.Sam
+GitHub Repository:
 
-Sam
+http://github.com/SamFan808
+
+For any questions, please contact me at samisfan@msn.com
