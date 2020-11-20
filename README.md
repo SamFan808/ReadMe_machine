@@ -24,7 +24,7 @@ Command line application written in JavaScript utilizing Node.js and npm Inquire
 
 ## Installation
 
-Requires Node.js installation. In Terminal, run command <node index.js> and follow prompts to enter pertinent information.
+````Requires Node.js installation. In Terminal, run command <node index.js> and follow prompts to enter pertinent information.````
 
 ## Usage
 
