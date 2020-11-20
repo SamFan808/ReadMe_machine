@@ -29,7 +29,13 @@ Requires Node.js installation. In Terminal, run command <node index.js> and foll
 ## Usage
 
 For general use.
+
 link to video: https://youtu.be/lrXw60owqPE
+
+Screenshot below:
+
+<img src="./images/Screenshot_hw09-1.png">
+
 
 ## License
 
