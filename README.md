@@ -1,11 +1,12 @@
-# AwesomeProject
+# ReadMe_machine
 
-# Project Name: AwesomeProject
-![license badge](https://img.shields.io/badge/license-GPLv3-blue)
+# Project Name: ReadMe_machine
+
+![license badge](https://img.shields.io/badge/license-MIT-blue)
 
 ## Description
 
-command line node.js application
+Command line application written in JavaScript utilizing Node.js and npm Inquirer to use user input to generate a readme markdown file.
 
 ## Table of Contents
 
@@ -23,23 +24,23 @@ command line node.js application
 
 ## Installation
 
-undefined
+Requires Node.js installation. In Terminal, run command <node index.js> and follow prompts to enter pertinent information.
 
 ## Usage
 
-Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rem explicabo minus blanditiis non asperiores. Impedit deserunt consequatur enim, commodi assumenda blanditiis voluptatum! Adipisci doloribus quas labore minima provident voluptates, repudiandae dicta. Modi iste adipisci alias voluptatum officiis animi fugit eum saepe laudantium assumenda qui, facilis tempore voluptate dolorem quia explicabo vero rem incidunt corporis accusamus magnam tenetur expedita fugiat asperiores. Ex eum molestias, enim fugit ullam ad explicabo qui est id aliquam deserunt ea quos aliquid? Itaque error eaque molestiae dicta est adipisci placeat veritatis architecto cupiditate iusto accusantium laborum, odit non at dolore odio maxime, nesciunt provident dignissimos rem!
+For general use.
 
 ## License
 
-Licensed under: GPLv3 license
+Licensed under: MIT license
 
 ## Contributing
 
-Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rem explicabo minus blanditiis non asperiores. Impedit deserunt consequatur enim, commodi assumenda blanditiis voluptatum! Adipisci doloribus quas labore minima provident voluptates, repudiandae dicta. Modi iste adipisci alias voluptatum officiis animi fugit eum saepe laudantium assumenda qui, facilis tempore voluptate dolorem quia explicabo vero rem incidunt corporis accusamus magnam tenetur expedita fugiat asperiores. Ex eum molestias, enim fugit ullam ad explicabo qui est id aliquam deserunt ea quos aliquid? Itaque error eaque molestiae dicta est adipisci placeat veritatis architecto cupiditate iusto accusantium laborum, odit non at dolore odio maxime, nesciunt provident dignissimos rem!
+Not accepting contributions at this time.
 
 ## Testing
 
-Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rem explicabo minus blanditiis non asperiores. Impedit deserunt consequatur enim, commodi assumenda blanditiis voluptatum! Adipisci doloribus quas labore minima provident voluptates, repudiandae dicta. Modi iste adipisci alias voluptatum officiis animi fugit eum saepe laudantium assumenda qui, facilis tempore voluptate dolorem quia explicabo vero rem incidunt corporis accusamus magnam tenetur expedita fugiat asperiores. Ex eum molestias, enim fugit ullam ad explicabo qui est id aliquam deserunt ea quos aliquid? Itaque error eaque molestiae dicta est adipisci placeat veritatis architecto cupiditate iusto accusantium laborum, odit non at dolore odio maxime, nesciunt provident dignissimos rem!
+N/A
 
 ## Questions
 
@@ -47,4 +48,4 @@ GitHub Repository:
 
 http://github.com/SamFan808
 
-For any questions, please contact me at samisfan@msn.com
+For any questions, please contact me at N/A

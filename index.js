@@ -1,12 +1,8 @@
 const inquirer = require("inquirer");
 const fs = require("fs");
-const generateMarkdown = require("./utils/generateMarkdown.js");
 const util = require("util");
-const { clear } = require("console");
-const { doesNotMatch } = require("assert");
-
+const generateMarkdown = require("./utils/generateMarkdown.js");
 const writeFileAsync = util.promisify(fs.writeFile);
-
 // array of questions for user
 const questions = () =>
   inquirer.prompt([
@@ -93,17 +89,7 @@ const questions = () =>
         response === "" ? console.log("Email cannot be left blank") : true,
     },
   ]);
-
 questions()
   .then((data) => writeFileAsync("ReadMe.md", generateMarkdown(data)))
   .then(() => console.log("Successfully written to ReadMe.md"))
   .catch((err) => console.error(err));
-
-// // function to write README file
-// function writeToFile(fileName, data) {}
-
-// // function to initialize program
-// function init() {}
-
-// // function call to initialize program
-// init();
