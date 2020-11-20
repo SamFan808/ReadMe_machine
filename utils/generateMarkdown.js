@@ -3,7 +3,7 @@ function generateMarkdown(data) {
   return `# ${data.title}
 
 # Project Name: ${data.title}
-![license badge](https://img.shields.io/badge/license-${data.license}-blue)
+![license badge](https://img.shields.io/static/v1?label=license&message=${data.license}&color=blue)
 
 ## Description
 

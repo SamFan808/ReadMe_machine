@@ -2,7 +2,7 @@
 
 # Project Name: ReadMe_machine
 
-![license badge](https://img.shields.io/badge/license-MIT-blue)
+![license badge](https://img.shields.io/badge/license-none-blue)
 
 ## Description
 
@@ -29,10 +29,11 @@ Requires Node.js installation. In Terminal, run command <node index.js> and foll
 ## Usage
 
 For general use.
+link to video: https://youtu.be/lrXw60owqPE
 
 ## License
 
-Licensed under: MIT license
+Licensed under: N/A
 
 ## Contributing
 

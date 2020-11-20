@@ -72,6 +72,7 @@ const questions = () =>
         "BSD-3-Clause",
         "BSD-4-Clause",
         "LGPLv3",
+        "none",
       ],
     },
     {
